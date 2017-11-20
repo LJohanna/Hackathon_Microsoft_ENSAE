@@ -12,7 +12,7 @@ Gabriel DUCROCQ
 Johanna LALOU
 Alize PAPP
 
-We started with a large database (~10GB) on the distribution of social help by all centers of the Red Cross in France. The database was loaded on a SQL Server hosted by Microsoft Azure, and we interacted with it using Python Jupyter notebooks on a virtual machine with 32GB of RAM.
+We started with a large database (approximately 10GB) on the distribution of social help by all centers of the Red Cross in France. The database was loaded on a SQL Server hosted by Microsoft Azure, and we interacted with it using Python Jupyter notebooks on a virtual machine with 32GB of RAM.
 
 We decided to concentrate on two axis: extract relevant data from the Red Cross internal database and collect Open Data on socio-economic indicators in France, mostly from the INSEE website.
 
